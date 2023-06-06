@@ -46,7 +46,7 @@ footer {font-family: franklin-gothic-atf, sans-serif;
   font-style: light;
   font-weight: 100;
   padding: 1.5%;
-  /*position: absolute;*/
+  position: relative;
   text-align: center;
   bottom:0px;
   width: 100%;
