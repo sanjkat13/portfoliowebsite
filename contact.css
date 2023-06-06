@@ -46,9 +46,9 @@ footer {font-family: franklin-gothic-atf, sans-serif;
   font-style: light;
   font-weight: 100;
   padding: 1.5%;
-  position: absolute;
+  /*position: absolute;*/
   text-align: center;
-  bottom:0;
+  bottom:0px;
   width: 100%;
   background-color: #339989;
   color:white;
